@@ -8,7 +8,7 @@
   "showLineNumber": true,
   "strictLineBreaks": true,
   "promptDelete": false,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "showFrontmatter": true,
   "foldHeading": false,

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8b7a0917eb92eb",
+        "id": "c59cdd3f74872726",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "数学模型/2. 非线性规划项目和多目标规划模型.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
         }
       }
@@ -146,24 +146,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
-  "active": "ea5baffa9c8d8237",
+  "active": "c59cdd3f74872726",
   "lastOpenFiles": [
+    "数学模型/2. 非线性规划项目和多目标规划模型.md",
+    "python支持/3. Sympy.md",
+    "python支持/1. Numpy.md",
+    "python支持/2. Scipy.md",
+    "数学模型/0. 相关库的安装.md",
     "数学模型/数学建模.md",
     "python支持/6. Cvxpy.md",
-    "数学模型/2. 非线性规划项目和多目标规划模型.md",
-    "python支持/1. Numpy.md",
     "数学模型/1. 线性规划线性规划基本原理与应用.md",
-    "数学模型/0. 相关库的安装.md",
     "数学模型/模型补充.md",
-    "知识点/1. 行列式.md",
-    "知识点/2. 矩阵及其运算.md",
-    "2022-09-23.md"
+    "知识点/1. 行列式.md"
   ]
 }
