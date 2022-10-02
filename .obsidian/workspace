@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c59cdd3f74872726",
+        "id": "cc0b19c2664fb522",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数学模型/2. 非线性规划项目和多目标规划模型.md",
+            "file": "数学模型/1. 线性规划线性规划基本原理与应用.md",
             "mode": "preview",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "f2d6642b4e79db9f",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学模型/2. 非线性规划项目和多目标规划模型.md",
+                "file": "数学模型/1. 线性规划线性规划基本原理与应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学模型/2. 非线性规划项目和多目标规划模型.md",
+                "file": "数学模型/1. 线性规划线性规划基本原理与应用.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学模型/2. 非线性规划项目和多目标规划模型.md"
+                "file": "数学模型/1. 线性规划线性规划基本原理与应用.md"
               }
             }
           },
@@ -151,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
-  "active": "c59cdd3f74872726",
+  "active": "cc0b19c2664fb522",
   "lastOpenFiles": [
-    "数学模型/2. 非线性规划项目和多目标规划模型.md",
-    "python支持/3. Sympy.md",
-    "python支持/1. Numpy.md",
-    "python支持/2. Scipy.md",
     "数学模型/0. 相关库的安装.md",
-    "数学模型/数学建模.md",
-    "python支持/6. Cvxpy.md",
+    "latex支持/1. 基本命令.md",
     "数学模型/1. 线性规划线性规划基本原理与应用.md",
-    "数学模型/模型补充.md",
-    "知识点/1. 行列式.md"
+    "数学模型/2. 非线性规划项目和多目标规划模型.md",
+    "python支持/2. Scipy.md",
+    "python支持/6. Cvxpy.md",
+    "latex支持/3. 插入图片.md",
+    "latex支持/4. 插入表格.md",
+    "latex支持/2. 数学公式的编辑.md",
+    "python支持/3. Sympy.md"
   ]
 }
