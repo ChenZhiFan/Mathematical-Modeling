@@ -123,6 +123,8 @@ git pull
 git fetch
 ```
 
+> 如果远程仓库有其他人员开发的内容，要先`pull`更新本地版本，解决完不同开发者冲突的代码之后，再`push`到远程仓库
+
 # 速查表
 
 ![](assets/img/TQDj8Uo1pj3YkMSoeSitYC1QB4a019V68N6GZFBE.png)
