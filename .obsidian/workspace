@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数学模型/3. 图论模型.md",
+            "file": "Git配置及使用/Git使用说明.md",
             "mode": "preview",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学模型/3. 图论模型.md",
+                "file": "Git配置及使用/Git使用说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学模型/3. 图论模型.md",
+                "file": "Git配置及使用/Git使用说明.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学模型/3. 图论模型.md"
+                "file": "Git配置及使用/Git使用说明.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "cc0b19c2664fb522",
   "lastOpenFiles": [
-    "数学模型/2. 非线性规划项目和多目标规划模型.md",
     "数学模型/3. 图论模型.md",
+    "数学模型/2. 非线性规划项目和多目标规划模型.md",
     "python支持/6. Cvxpy.md",
     "python支持/1. Numpy.md",
     "数学模型/1. 线性规划线性规划基本原理与应用.md",
