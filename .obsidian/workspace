@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数学模型/3. 图论模型.md",
+            "file": "python支持/5. Matplotlib.md",
             "mode": "preview",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2d6642b4e79db9f",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学模型/3. 图论模型.md",
+                "file": "python支持/5. Matplotlib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学模型/3. 图论模型.md",
+                "file": "python支持/5. Matplotlib.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学模型/3. 图论模型.md"
+                "file": "python支持/5. Matplotlib.md"
               }
             }
           },
@@ -146,17 +147,17 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
+    "width": 202.5,
     "collapsed": true
   },
-  "active": "cc0b19c2664fb522",
+  "active": "ea5baffa9c8d8237",
   "lastOpenFiles": [
-    "python支持/7. NetworkxX.md",
     "数学模型/3. 图论模型.md",
+    "python支持/7. NetworkxX.md",
     "Git配置及使用/Git使用说明.md",
     "Git配置及使用/2. Git多人协作.md",
     "数学模型/2. 非线性规划项目和多目标规划模型.md",
